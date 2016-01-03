@@ -13,8 +13,7 @@ Material Design TextInputLayout with Spinner
     <com.creotix.superspinner.SuperSpinner
       android:id="@+id/super_spinner"
       android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:padding="5dp" />
+      android:layout_height="wrap_content" />
 
 ### Set it up
 
@@ -23,6 +22,6 @@ Material Design TextInputLayout with Spinner
     superSpinner.addAll(spinnerItems);
 
 
-And you have a `Materialized Spinner`
+And you have a `Materialized Spinner` in your app
 
 If you have a suggestion/improvement let me know! Found a bug? Report now!
