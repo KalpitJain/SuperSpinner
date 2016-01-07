@@ -4,7 +4,7 @@ Material Design TextInputLayout with Spinner
 ### Include
 
     dependencies {
-      compile 'com.android.support:appcompat-v7:23.1.1'
+      compile 'com.creotix:superspinner:1.0.0'
     }
 
 
@@ -18,7 +18,7 @@ Material Design TextInputLayout with Spinner
 ### Set it up
 
     SuperSpinner superSpinner = (SuperSpinner) findViewById(R.id.super_spinner);
-    superSpinner.init("Select Item Label");
+    superSpinner.init("Hint Text");
     superSpinner.addAll(spinnerItems);
 
 
