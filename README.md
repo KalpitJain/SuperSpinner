@@ -1,3 +1,6 @@
+# Deprecated
+This project is not maintained anymore.
+
 # SuperSpinner
 Material Design TextInputLayout with Spinner
 
